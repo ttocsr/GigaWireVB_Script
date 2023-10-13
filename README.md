@@ -12,6 +12,6 @@ First install required compiles and cross compilers
 
 Clone the Repo  
 Run the script  
-`./build`  
+`./build.sh`  
 
 You will find the tgz file for amd64 and arm64 in the GigaWireVB/release folder  
